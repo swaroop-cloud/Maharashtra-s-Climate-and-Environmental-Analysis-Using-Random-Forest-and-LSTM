@@ -1,0 +1,2 @@
+# Maharashtra-s-Climate-and-Environmental-Analysis-Using-Random-Forest-and-LSTM
+Maharashtra, one of India's largest and most economically significant states, experiences diverse climatic conditions, including the monsoon season, cyclones, floods, and earthquakes. This research focuses on the environmental analysis the significance of data-driven climate analytics impacts  of natural disasters in Maharashtra.
